@@ -152,3 +152,4 @@ Para suporte, consulte os logs em tempo real no dashboard.
 ---
 
 **Desenvolvido em 2025 - Bot de Automação RollerCoin**"# rollercoin-bot"  
+"# rollercoin-bot" 
